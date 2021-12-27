@@ -54,6 +54,7 @@
         background: var(--light);
         border-radius: 15px;
         width:360px;
+        margin: 1em;
     }
 
     h2{

@@ -8,6 +8,6 @@
         text-align:center;
         background-color: var(--dark);
         color: var(--light);
-        padding:1em;
+        padding:2em;
     }
 </style>

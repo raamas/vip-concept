@@ -39,4 +39,6 @@ import Login from "./pages/Login.svelte"
 .screen:nth-of-type(2){
 	background: var(--grey);
 }
+
+
 </style>
